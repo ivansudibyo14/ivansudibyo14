@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**ivansudibyo14/ivansudibyo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning python and scientific literature
 - 👯 I’m looking to collaborate on research about economics
